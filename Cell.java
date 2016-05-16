@@ -1,4 +1,4 @@
-package jp.co.navitime;
+package java.GWpro;
 
 /**
  * Created by ryosuke-akanuma on 2016/05/06.
